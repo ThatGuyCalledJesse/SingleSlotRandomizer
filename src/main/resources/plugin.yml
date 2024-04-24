@@ -1,0 +1,6 @@
+name: SingleSlotRandomizer
+author: ThatGuyCalledJesse
+description: You only get 1 inventory slot, but the item in it is randomized every 3 minutes.
+version: '${project.version}'
+main: com.jesse.singleslotrandomizer.SingleSlotRandomizer
+api-version: '1.20'
